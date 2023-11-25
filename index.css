@@ -24,7 +24,7 @@ body{
 
 #landing{
 	height:  80vh;
-	diplay: flex;
+	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
